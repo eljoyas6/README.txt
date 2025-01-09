@@ -1,0 +1,2 @@
+# README.txt
+práctica repositorio
