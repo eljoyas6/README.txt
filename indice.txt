@@ -1,3 +1,4 @@
 1- Adivinanzas: dentro de esta carpeta te viene una adivinanza.
 2- Chistes: dentro de esta carpeta te viene un chiste.
-3- 
+3- Refranes: dentro de esta carpeta te viene un refrán.
+4- Trabalenguas: dentro de esta carpeta te viene un trabalenguas.
